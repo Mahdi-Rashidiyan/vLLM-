@@ -72,10 +72,4 @@ The `vLLM.ipynb` notebook might cover topics such as:
 
 Contributions are welcome! If you have suggestions for improving the notebook or adding new examples, please feel free to open an issue or submit a pull request.
 
-## License
 
-[Specify a license if you wish, e.g., MIT, Apache 2.0. If not, you can state that the project is unlicensed or refer to GitHub's default.]
-
----
-
-*This README is a general template. Please inspect `vLLM.ipynb` and update the sections on "Notebook Content", "Prerequisites", and "How to Use" with specific details relevant to that notebook.*
